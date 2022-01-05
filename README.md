@@ -1,5 +1,6 @@
 [![PyPI](https://img.shields.io/pypi/v/pypot.svg)](https://pypi.python.org/pypi/pypot/)
-[![Build Status](https://travis-ci.org/poppy-project/pypot.svg?branch=master)](https://travis-ci.org/poppy-project/pypot) 
+[![Build Status](https://travis-ci.org/poppy-project/pypot.svg?branch=master)](https://travis-ci.org/poppy-project/pypot) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdavidjsherman%2Fpypot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdavidjsherman%2Fpypot?ref=badge_shield)
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.591809.svg)](https://doi.org/10.5281/zenodo.591809)
 
 
@@ -55,3 +56,7 @@ You will also have to install the driver for the USB2serial port. There are a fe
 
 For more details on the installation procedure, please refer to the [installation section](http://poppy-project.github.io/pypot/intro.html#installation) of the documentation.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdavidjsherman%2Fpypot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdavidjsherman%2Fpypot?ref=badge_large)
